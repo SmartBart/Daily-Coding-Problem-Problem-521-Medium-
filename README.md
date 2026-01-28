@@ -3,7 +3,9 @@ Given a string and a number of lines k, print the string in zigzag form. In zigz
 
 For example, given the sentence "thisisazigzag" and k = 4, you should print:
 
+<code>
 t     a     g
  h   s z   a
   i i   i z
    s     g
+</code>
